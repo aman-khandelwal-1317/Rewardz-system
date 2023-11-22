@@ -9,5 +9,6 @@ using UnityEngine;
     public string rName;
     public string rType;
     public Sprite rSprite;
-
+    public int rAmount;
+    public int rQuantity = 0;
 }

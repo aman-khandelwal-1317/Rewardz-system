@@ -16,20 +16,30 @@ MonoBehaviour:
   - rNum: 0
     rName: 100 coin
     rType: coin
-    rSprite: {fileID: 21300000, guid: 237c5e6d792f6dc40bd7f137f3de6a1c, type: 3}
+    rSprite: {fileID: 21300000, guid: 19414521f09e6874ab2f03312059897c, type: 3}
+    rAmount: 421
+    rQuantity: 0
   - rNum: 1
     rName: 1 bomb
     rType: bomb
     rSprite: {fileID: 21300000, guid: 664cc567f426f344095906d35c7133b4, type: 3}
+    rAmount: 1
+    rQuantity: 0
   - rNum: 2
-    rName: 100 gem
-    rType: coin
+    rName: 2 gem
+    rType: gem
     rSprite: {fileID: 21300000, guid: 2a77529e2c569f74ca3b664ccbe4030f, type: 3}
+    rAmount: 2
+    rQuantity: 3
   - rNum: 3
-    rName: 5 swords
-    rType: coin
-    rSprite: {fileID: 21300000, guid: 6d808e668f51f8442a5eaaed33fb2d24, type: 3}
+    rName: Treasure
+    rType: chest
+    rSprite: {fileID: 21300000, guid: 14528b60b7f090743b221f3c2ca83ef5, type: 3}
+    rAmount: 1
+    rQuantity: 0
   - rNum: 4
     rName: 1 bomb
     rType: bomb
     rSprite: {fileID: 21300000, guid: 664cc567f426f344095906d35c7133b4, type: 3}
+    rAmount: 1
+    rQuantity: 0
